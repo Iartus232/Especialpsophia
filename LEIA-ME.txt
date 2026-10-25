@@ -1,0 +1,7 @@
+SOPHIA — MEU LUGAR SEGURO, VERSÃO 7
+
+Abra index.html no navegador. Mantenha a pasta midias ao lado do arquivo.
+5 fotos e 3 vídeos já estão integrados ao site.
+Para incluir música, coloque musica.mp3 na mesma pasta de index.html.
+O player também permite selecionar uma música no dispositivo.
+As fontes online dependem de conexão; o restante funciona localmente.
