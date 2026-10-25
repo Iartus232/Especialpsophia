@@ -1,7 +1,7 @@
-SOPHIA — MEU LUGAR SEGURO, VERSÃO 7
+SOPHIA — V12
 
-Abra index.html no navegador. Mantenha a pasta midias ao lado do arquivo.
-5 fotos e 3 vídeos já estão integrados ao site.
-Para incluir música, coloque musica.mp3 na mesma pasta de index.html.
-O player também permite selecionar uma música no dispositivo.
-As fontes online dependem de conexão; o restante funciona localmente.
+Publique index.html e a pasta midias/ inteira no mesmo nível do repositório GitHub Pages.
+
+Música: player incorporado do YouTube com vídeo wN_jRZxYE9U. Ao clicar em Entrar no nosso universo, a página tenta iniciar a reprodução. Alguns navegadores bloqueiam autoplay com som: nesse caso é necessário tocar no botão ▶ dentro do player. O vídeo pode estar indisponível para incorporação por decisão do proprietário.
+
+A faixa não está incluída nos arquivos.
